@@ -1,16 +1,15 @@
 ---
 
-title: "About Julian Delgado"
+title: "About Ashley Fu"
 
 ---
-Julian is passionate about being a lifelong learner and has a diverse set of interests. He enjoys bringing his ideas to life through microcontrollers and 3D-printed parts.
-He is seeking an entry-level role in the cybersecurity field with a focus on reverse engineering.
+Ashley is a sad college student
 
 ## Education
 
-* Vanderbilt University - Class of 2024
-  * BS Computer Science
-  * Concentration in Digital Fabrication
+* Vanderbilt University - Class of 2026
+  * BS Electrical and Computer Engineering
+  * Concentration in Microelectronics and Embedded Systems
 
 ## Work Experience
 American Express - Software Engineering Intern (Summer 2023)
