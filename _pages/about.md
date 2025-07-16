@@ -20,7 +20,7 @@ Hello! My name is Ashley and I am a Senior at Vanderbilt University. I like clim
 
 ## Work Experience
 
-#Qualcomm - Embedded SW Engineering Intern
+**Qualcomm** - Embedded SW Engineering Intern  
 San Diego, CA, Summer 2025
 * Developed a user friendly GUI tool using Python and Tkinter for frontend and Perl for backend scripts.
 * Designed and implemented a diff tool embedded within the GUI that supports direct visual comparison

@@ -14,12 +14,12 @@ This is a lab project with great sentimental attachment. It was the first ever p
 * Microchip Studio
 * C & Assembly
 
-* **Line Tracking** Bang Bang controller incorporating 5 IR sensors
-* **Maze Solving** Left Hand Rule and IR sensor status tunings
+* **Line Tracking:** Bang Bang controller incorporating 5 IR sensors
+* **Maze Solving:** Left Hand Rule and IR sensor status tunings
 
 # Demo Video
 This video demonstrates the smooth and precise line tracking. 
-<video controls src="assets/img/Maze_Solver_Demo.mov" title="Line Tracking" width="400" height="800" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></video>
+<video controls src="assets/img/Maze_Solver_Demo.mp4" title="Title" width="400" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></video>
 
 # Credits
 ECE 2218 Microcontrollers Lab Project
