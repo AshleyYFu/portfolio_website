@@ -8,10 +8,10 @@ Hello! My name is Ashley and I am a Senior at Vanderbilt University. I like clim
 ## Education
 
 * Vanderbilt University - Class of 2026
-  * BE Electrical and Computer Engineering
-  * GPA - 3.96/4.00
+  * BE - Electrical and Computer Engineering
   * Concentration in Embedded Systems and Microelectronics
-
+  * GPA - 3.96/4.00
+  
 ## Awards
 
 * 2025 Vanderbilt ECE Day Best Undergraduate Poster Award

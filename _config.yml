@@ -11,12 +11,12 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julian Delgado"
+title                    : "Ashley Fu"
 title_separator          : "-"
-subtitle                 : "CS & Digital Fabrication @ Vanderbilt University"
-name                     : &name "Julian Delgado" # &name is a YAML anchor which can be *referenced later
+subtitle                 : "ECE @ Vanderbilt University"
+name                     : &name "Ashley Fu" # &name is a YAML anchor which can be *referenced later
 description              : &description "portfolio"
-url                      : https://delgadjd.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ashleyyfu.github.io/portfolio_website/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -97,13 +97,17 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/Julian_Headshot.jpg"
-  bio              : "Computer Science @ Vanderbilt University"
+  avatar           : "assets/img/Ashley_Headshot.jpg"
+  bio              : "Electrical and Computer Engineering @ Vanderbilt University"
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/delgadjd"
+      url: "https://github.com/AshleyYFu"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: ""
 
 
 # Site Footer
@@ -111,7 +115,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/delgadjd"
+      url: "https://github.com/AshleyYFu"
 
 
 # Reading Files
