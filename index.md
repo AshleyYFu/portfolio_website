@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "is an Electrical and computer engineer with a passion for embedded systems and microelectronics. "
+excerpt: "You are looking at my favorite animal right now. "
 feature_row:
   - image_path: assets/img/Your_Dawg1.jpg
     alt: "Your Dawg"
@@ -20,7 +20,7 @@ feature_row:
     title: "Maze Solver and Line Tracker"
     excerpt: "A precise and accurate line tracker developed using ATmega32u4 Pololu robot."
 
-  - image_path: assets/img/fp-full-image.png
+  - image_path: assets/img/PAN3.jpg
     alt: "A Wireless Personal Area Network Receiver Amplifier"
     title: "A Wireless Personal Area Network Receiver Amplifier"
     excerpt: "A multi-stage feedback amplifier capable of delivering a gain of 65 dB and a bandwidth of at least 100 kHz to 5.8 MHz."

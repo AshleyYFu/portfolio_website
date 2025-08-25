@@ -3,7 +3,7 @@
 title: "About Ashley (Yue Yang) Fu"
 
 ---
-Hello! My name is Ashley and I am a Senior at Vanderbilt University. I like climbing, baking, thirfting, playing piano, and making arts. 
+Hello! My name is Ashley and I am a Senior at Vanderbilt University. I like climbing, baking, thrifting, playing piano, and making arts. 
 
 ## Education
 
@@ -31,7 +31,7 @@ I have extensive background in the following engineering skills:
 * Broadband Amplifier Circuit Design
 * PCB Design
 * Soldering, Oscilloscope, Function Generator
-* Raspberry PI, Linux Development, Arduino
+* Raspberry Pi, Linux Development, Arduino
 
 I am also familiar with the following languages, frameworks, softwares, and tools:
 * Python, C/C++, Java, Assembly
