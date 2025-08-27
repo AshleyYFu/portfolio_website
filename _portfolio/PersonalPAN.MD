@@ -7,9 +7,8 @@ header:
 ---
 
 ## About
-![Figure 1. Complete Circuit Diagram.](/assets/img/PAN3.jpg)
-*Figure 1. Complete Circuit Diagram.*
-
+![Figure 1. Complete Circuit Diagram.](/portfolio_website/assets/img/PAN3.jpg)
+<!-- *Figure 1. Complete Circuit Diagram.* -->
 
 As part of an advanced electronics design project, I developed a high-gain, wideband receiver amplifier for a wireless Personal Area Network (PAN) receiver system. The amplifier was architected as a four-stage design: a common-base input stage for precise impedance matching, cascoded gain stages stabilized by series–shunt feedback to achieve the required bandwidth, and an emitter-follower output stage for low output impedance. 
 

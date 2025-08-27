@@ -32,7 +32,7 @@ between humans and a “robot dog”, with each gesture mapped to a unique seque
 * Open source and code versioning / source control
 
 # Demo Video
-<video controls src="../assets/img/Your_Dawg_Demo.mp4" title="Title" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></video>
+<video controls src="/portfolio_website/assets/img/Your_Dawg_Demo.mp4" title="Title" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></video>
 
 ## Credits
 **ECE 4375 Embedded Systems** Spring 2025 Group Project
