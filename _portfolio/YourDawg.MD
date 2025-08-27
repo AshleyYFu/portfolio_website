@@ -35,6 +35,6 @@ between humans and a “robot dog”, with each gesture mapped to a unique seque
 <video controls src="../assets/img/Your_Dawg_Demo.mp4" title="Title" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></video>
 
 ## Credits
-**ECE 4375 Embedded Systems** Group Project
+**ECE 4375 Embedded Systems** Spring 2025 Group Project
 
 {% include gallery %}

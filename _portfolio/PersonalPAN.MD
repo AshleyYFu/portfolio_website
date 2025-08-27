@@ -3,23 +3,21 @@ title: "A Wireless Personal Area Network Receiver Amplifier"
 excerpt: "A multi-stage feedback amplifier for a wireless network receiver with 65 dB gain and 100 kHz–5.8 MHz bandwidth"
 header:
   teaser: assets/img/PAN1.jpg
-gallery:
-  - image_path: assets/img/PAN2.jpg
    
 ---
 
 ## About
-<img src="/assets/img/PAN3.jpg"/>
+<img src="assets/img/PAN3.jpg"/>
 <figure-caption>Figure 1. Complete Circuit Diagram.</figure-caption>
 
 As part of an advanced electronics design project, I developed a high-gain, wideband receiver amplifier for a wireless Personal Area Network (PAN) receiver system. The amplifier was architected as a four-stage design: a common-base input stage for precise impedance matching, cascoded gain stages stabilized by series–shunt feedback to achieve the required bandwidth, and an emitter-follower output stage for low output impedance. 
 
-<img src="/assets/img/PAN1.jpg"/>
+<img src="assets/img/PAN1.jpg"/>
 <figure-caption>Figure 2. Conceptual Design Block Diagram.</figure-caption>
 
 Using LTspice simulations, I verified that the amplifier consistently delivered **65 dB ±1.5 dB** gain across the required bandwidth of **100 kHz–5.8 MHz**, consumed less than 12 mA from a 6 V supply, and maintained performance under ±50% transistor manufacture process variations. This project strengthened my ability to integrate analog circuit design principles with simulation-driven validation to meet strict specifications.
 
-<img src="/assets/img/PAN2.jpg"/>
+<img src="assets/img/PAN2.jpg"/>
 <figure-caption>Figure 3. Nominal Beta Bode Gain Plot.</figure-caption>
 
 The total circuit costs **$11.64**.
@@ -41,6 +39,4 @@ The total circuit costs **$11.64**.
 * Circuit simulation, bode plots, Bill of Materials (BOM)
 
 ## Credits
-**ECE 4380 Electronics II** Group Project
-
-{% include gallery %}
+**ECE 4380 Electronics II** Spring 2025 Group Project

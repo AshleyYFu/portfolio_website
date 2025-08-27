@@ -24,12 +24,16 @@ feature_row:
     alt: "A Wireless Personal Area Network Receiver Amplifier"
     title: "A Wireless Personal Area Network Receiver Amplifier"
     excerpt: "A multi-stage feedback amplifier capable of delivering a gain of 65 dB and a bandwidth of at least 100 kHz to 5.8 MHz."
+  
+  - image_path: assets/img/dalock-teaser.jpeg
+    alt: "Ferro Beats"
+    title: "Ferro Beats"
+    excerpt: "A personal ferrofluidic speaker system that combines wireless audio playback with dynamic visual output."
 
-  - image_path: assets/img/ufluidic5.jpeg
+  - image_path: assets/img/DAN1.jpg
     alt: "Ask D.A.N."
     title: "Ask DAN - A Daily Assistant for Nutrients"
     excerpt: "Drop or take a photo of your food, and let D.A.N. analyze the nutrients and calories for you!"
-    # excerpt: "An edge computing, self-hosting webapp for calorie and nutrition tracking powered by Gemini AI image captioning and retrival augmented generation flow (RAG) to pull data from DB."
 
   - image_path: assets/img/truck2.jpeg
     alt: "Low-Cost Syringe Pump"
