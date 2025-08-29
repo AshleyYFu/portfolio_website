@@ -22,12 +22,16 @@ Hello! My name is Ashley and I am a Senior at Vanderbilt University. I like clim
 
 **Qualcomm** - Embedded SW Engineering Intern  
 San Diego, CA, Summer 2025
-* Developed a user friendly GUI tool using Python and Tkinter for frontend and Perl for backend scripts.
-* Designed and implemented a diff tool embedded within the GUI that supports direct visual comparison
+* Developed a user-friendly GUI tool with multithreading, MVC design pattern, and XML parsing techniques for opening, viewing, editing, and generating binary modem configuration files.
+* Refactored Perl scripts to Python, expanding supported file types from 2 to 8 and doubling generation speed.
+* Enhanced tool reliability and compliance with 5G and RF standards to ensure integration with modem firmware workflows. 
+* Integrated an embedded diff tool for easy comparison between two configuration files with color coded differences and other user-friendly features.
+
 
 ## Technical Skills
 
 I have extensive background in the following engineering skills:
+* Embedded systems
 * Broadband Amplifier Circuit Design
 * PCB Design
 * Soldering, Oscilloscope, Function Generator

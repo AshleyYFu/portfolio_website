@@ -8,18 +8,16 @@ header:
 
 ## About
 ![Figure 1. Complete Circuit Diagram.](/portfolio_website/assets/img/PAN3.jpg)
-<!-- *Figure 1. Complete Circuit Diagram.* -->
+*Figure 1. Complete Circuit Diagram.*
 
 As part of an advanced electronics design project, I developed a high-gain, wideband receiver amplifier for a wireless Personal Area Network (PAN) receiver system. The amplifier was architected as a four-stage design: a common-base input stage for precise impedance matching, cascoded gain stages stabilized by series–shunt feedback to achieve the required bandwidth, and an emitter-follower output stage for low output impedance. 
 
-<!-- <img src="assets/img/PAN1.jpg"/>
-<figure-caption>Figure 2. Conceptual Design Block Diagram.</figure-caption> -->
-![Figure 2. Conceptual Design Block Diagram](/assets/img/PAN1.jpg)
+![Figure 2. Conceptual Design Block Diagram](/portfolio_website/assets/img/PAN1.jpg)
 *Figure 2. Conceptual Design Block Diagram.*
 
 Using LTspice simulations, I verified that the amplifier consistently delivered **65 dB ±1.5 dB** gain across the required bandwidth of **100 kHz–5.8 MHz**, consumed less than 12 mA from a 6 V supply, and maintained performance under ±50% transistor manufacture process variations. This project strengthened my ability to integrate analog circuit design principles with simulation-driven validation to meet strict specifications.
 
-![Figure 3. Nominal Beta Bode Gain Plot.](/assets/img/PAN2.jpg)
+![Figure 3. Nominal Beta Bode Gain Plot.](/portfolio_website/assets/img/PAN2.jpg)
 *Figure 3. Nominal Beta Bode Gain Plot.*
 
 The total circuit costs **$11.64**.

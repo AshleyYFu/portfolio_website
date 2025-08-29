@@ -23,7 +23,7 @@ This was my gateway course to embedded systems. The robot was programmed using C
 
 # Demo Video
 This video demonstrates the smooth and precise line tracking. 
-<video controls src="assets/img/Maze_Solver_Demo.mp4" title="Title" width="400" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></video>
+<video controls src="/portfolio_website/assets/img/Maze_Solver_Demo.mp4" title="Title" width="400" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></video>
 
 # Credits
 **ECE 2218 Microcontrollers** Fall 2024 Lab Project

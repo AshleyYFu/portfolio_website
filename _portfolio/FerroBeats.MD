@@ -7,7 +7,7 @@ header:
 ---
 
 ## About
-![Figure 1. Conceptual Design Block Diagram](/assets/img/ferro_beat1.jpg)
+![Figure 1. Conceptual Design Block Diagram](/portfolio_website/assets/img/ferro_beat1.jpg)
 *Figure 1. Conceptual Design Block Diagram*
 
 Ferro Beats is a custom-designed ferrofluidic speaker system that transforms music into both sound and synchronized visual motion. By streaming audio wirelessly via Bluetooth, the device drives a conventional speaker for playback while simultaneously actuating ferrofluid through an electromagnet controlled by a high-power MOSFET. The result is an engaging, music-responsive multimedia experience that blends embedded systems engineering with interactive art form.
@@ -22,10 +22,10 @@ This project provided a low-cost, DIY-friendly alternative to commercial ferrofl
 * **PCB & Enclosure**: Completed a double-sided PCB design and integrated it into a custoom enclosure sized for desktop use.
 
 
-![Figure 2](/assets/img/ferro_beat3.jpg)
+![Figure 2](/portfolio_website/assets/img/ferro_beat3.jpg)
 *Figure 2. PCB Layout.*
 
-![Figure 3](/assets/img/ferro_beat2.jpg)
+![Figure 3](/portfolio_website/assets/img/ferro_beat2.jpg)
 *Figure 3. 3D PCB Rendering Using KiCad.*
 
 ## Skills Acquired

@@ -25,7 +25,7 @@ feature_row:
     title: "A Wireless Personal Area Network Receiver Amplifier"
     excerpt: "A multi-stage feedback amplifier capable of delivering a gain of 65 dB and a bandwidth of at least 100 kHz to 5.8 MHz."
   
-  - image_path: assets/img/dalock-teaser.jpeg
+  - image_path: assets/img/ferro_beat2.jpg
     alt: "Ferro Beats"
     title: "Ferro Beats"
     excerpt: "A personal ferrofluidic speaker system that combines wireless audio playback with dynamic visual output."
@@ -38,9 +38,9 @@ feature_row:
   - image_path: assets/img/truck2.jpeg
     alt: "Low-Cost Syringe Pump"
     title: "Low-Cost Syringe Pump"
-    excerpt: "Syringe pump built to precisely dispense fluids at a minimum rate of 1uL/min."
+    excerpt: "Syringe pump built to precisely dispense fluids at a highly precise rate of 5uL/min."
 
-  - image_path: assets/img/dalock-teaser.jpeg
+  - image_path: assets/img/plant1.jpg
     alt: "Screaming Plant"
     title: "Screaming Plant"
     excerpt: "A plant that screams at you when it needs to be watered!"
