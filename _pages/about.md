@@ -39,10 +39,14 @@ I have extensive background in the following engineering skills:
 
 I am also familiar with the following languages, frameworks, softwares, and tools:
 * Python, C/C++, Java, Assembly
+* MATLAB, Simulink
 * Linux, AVR & ARM Architecture
-* Microcontrollers, Microprocessors, Communication Protocols, TCP & UDP
+* Microcontrollers, Microprocessors, Communication Protocols
+* Cadence, Quartus, VS Code, LTspice, SolidWorks, KiCad, Altium, Arm Keil
 
 ## ECE & CS Course Work
+* ECE 4385 VLSI Design
+* ECE 6342 Advanced Digital Electronics
 * ECE 4375 Embedded Systems
 * ECE 4380 Electronics II
 * ECE 4275 Microelectronic Systems

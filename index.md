@@ -35,11 +35,6 @@ feature_row:
     title: "Ask DAN - A Daily Assistant for Nutrients"
     excerpt: "Drop or take a photo of your food, and let D.A.N. analyze the nutrients and calories for you!"
 
-  - image_path: assets/img/truck2.jpeg
-    alt: "Low-Cost Syringe Pump"
-    title: "Low-Cost Syringe Pump"
-    excerpt: "Syringe pump built to precisely dispense fluids at a highly precise rate of 5uL/min."
-
   - image_path: assets/img/plant1.jpg
     alt: "Screaming Plant"
     title: "Screaming Plant"

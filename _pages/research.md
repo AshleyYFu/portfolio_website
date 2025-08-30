@@ -1,6 +1,5 @@
 ---
 title: "Research"
-layout: page
 gallery:
   - image_path: assets/img/research_abstract.jpg
   - image_path: assets/img/research_step.jpg

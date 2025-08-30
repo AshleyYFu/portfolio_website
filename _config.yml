@@ -17,7 +17,7 @@ subtitle                 : "ECE @ Vanderbilt University"
 name                     : &name "Ashley Fu" # &name is a YAML anchor which can be *referenced later
 description              : &description "portfolio"
 url                      : https://ashleyyfu.github.io/portfolio_website/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : https://ashleyyfu.github.io/portfolio_website/ # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -104,10 +104,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AshleyYFu"
-  links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: ""
+      url: "https://www.linkedin.com/in/ashley-fu-633248220/"
 
 
 # Site Footer
