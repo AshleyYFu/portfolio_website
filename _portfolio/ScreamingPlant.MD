@@ -2,7 +2,7 @@
 title: "Screaming Plant"
 excerpt: "A plant that screams at you when it needs to be watered."
 header:
-  image: assets/img/plant1.jpg
+  teaser: assets/img/plant1.jpg
 gallery:
   - image_path: assets/img/plant2.jpg
 ---
